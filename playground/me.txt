@@ -1,0 +1,1 @@
+"{{#Suprith-EraCell}}\nName: SuprithKG\nSkills: ReactJS, Python, HTML, CSS, JS, Next.js\nEmail: suprith7kg@gmail.com\n{{/Suprith}}" 
